@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    <img src="https://storage.downfall24.com/supplant/logo.jpg" alt="logo" />
+    <img srcset="https://storage.downfall24.com/supplant/logo.jpg 1x, https://storage.downfall24.com/supplant/logo2x.jpg 2x"src="https://storage.downfall24.com/supplant/logo.jpg" alt="logo" />
 </p>
 
 <p align="center">
