@@ -1,0 +1,18 @@
+{
+    "tables":  {
+        "customer_address_entity_varchar": {
+            "type": "entity",
+            "entity_index": 2,
+            "value_index": 4,
+            "entities": {
+                "19": "title",
+                "20": "firstname",
+                "22": "lastname",
+                "26": "city",
+                "28": "county",
+                "30": "postcode",
+                "31": "phonenumber"
+            }
+        }
+    }
+}

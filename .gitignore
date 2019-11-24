@@ -1,0 +1,8 @@
+node_modules
+*.sketch
+*.jpg
+
+dumps/*
+!dumps/demo_dump.sql
+config/*
+!config/demo_dump.json

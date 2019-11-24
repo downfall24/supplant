@@ -1,0 +1,29 @@
+{
+  "name": "supplant",
+  "version": "0.0.1",
+  "description": "A command line application allowing for the replacement of personally identifiable information from database dumps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Duncan Brown (@downfall24)",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^16.35.0",
+    "chalk": "^3.0.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "configstore": "^5.0.0",
+    "faker": "^4.1.0",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.0",
+    "line-reader": "^0.4.0",
+    "line-replace": "^1.0.2",
+    "lodash": "^4.17.15",
+    "minimist": "^1.2.0",
+    "path": "^0.12.7",
+    "simple-git": "^1.126.0",
+    "touch": "^3.1.0"
+  }
+}
